@@ -1,0 +1,52 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: darkred;
+  font-family: 'Almendra SC', serif;
+}
+
+p {
+  font-size: 15px;
+  text-align: center;
+}
+
+img {
+  margin-left: 100px;
+}
+
+#dwarf {
+  position: absolute;
+  left: 950px;
+  top: 300px;
+  width: 200px;
+  height: 200px;
+}
+
+#dwarf:hover {
+  background-color: rgba(256,256,256,.5);
+}
+
+ #cat {
+  position: absolute;
+  left: 450px;
+  top: 550px;
+  width: 250px;
+  height: 150px;
+  }
+
+#cat:hover {
+  background-color: rgba(256,256,256,.5);
+}
+
+ #code {
+  position: absolute;
+  left: 750px;
+  top: 550px;
+  width: 250px;
+  height: 150px;
+  }
+
+#code:hover {
+  background-color: rgba(256,256,256,.5);
+}
+  
